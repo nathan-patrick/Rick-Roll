@@ -1,0 +1,39 @@
+What is this Hack?
+
+This hack in simple is creating a disguised shortcut that looks like a browser icon, but secretly is a script that 
+opens 100 individual tabs to Rick Astley's Never Gonna Give You Up. The hope is that the script 
+crashes the target's computer, but if not, they will have to suffer with closing 100 individual tabs of Rick Roll.
+
+The ideal situation is if someone leaves and forgets to lock their computer. Since this Hack does not take too
+long to set up, it's perfect for a friend who left really quick to use the restroom or something. 
+
+
+How to Use:
+
+Download the "Rick Roll Spam Hack"
+
+Drag the folder to a location that would not be commonly used by the user, for example "C:\Program Files (x86)"
+
+Double click on the "Test Hack" file in the folder to test if the prank will work 
+
+If it opens 3 or so tabs to the YouTube Page of Rick Roll, the real prank should work
+
+RIGHT CLICK on the "Rick Roll Hack" and click "Show More Options" at the bottom of the menu
+
+Then click on "Create Shortcut" and drag the created shortcut onto the desktop
+
+RIGHT CLICK on the shortcut you dragged onto the desktop and click "Properties"
+
+In the settings near the bottom, click "Change Icon"
+
+Click the "Browse" button and find the folder you hid earlier, and open the "Browser Fake Icons" Folder
+
+Double click on whichever icon the target uses as their normal browser
+
+Click OK and OK again
+
+Rename the hack shortcut to whichever browser icon you chose
+
+Replace the target's normal browser icon with the fake one you just created
+
+Now leave it up to the target to open their 'browser' for a big surprise!
